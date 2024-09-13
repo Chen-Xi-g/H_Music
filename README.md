@@ -10,3 +10,11 @@
 
 所有音乐由[Bensound.com](www.bensound.com)提供，版权归Bensound所有。
 视频来源为[bilibili 华为终端](https://www.bilibili.com/video/BV1qb421H72D/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=85c7de45d5d2917067bc2b45b37f3a6f)
+
+## 应用截图
+
+![手机端](./img/Music_Phone.png)
+
+![平板端](./img/Music_Table.png)
+
+![折叠屏](./img/Music_Foldable.png)
