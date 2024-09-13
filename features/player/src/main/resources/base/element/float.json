@@ -1,0 +1,772 @@
+{
+  "float": [
+    {
+      "name": "player_cover_size_sm",
+      "value": "40vp"
+    },
+    {
+      "name": "player_cover_size_md",
+      "value": "60vp"
+    },
+    {
+      "name": "player_cover_size_lg",
+      "value": "80vp"
+    },
+    {
+      "name": "player_content_padding_sm",
+      "value": "20vp"
+    },
+    {
+      "name": "player_content_padding_md",
+      "value": "30vp"
+    },
+    {
+      "name": "player_content_padding_left_lg",
+      "value": "96vp"
+    },
+    {
+      "name": "player_content_padding_right_lg",
+      "value": "16vp"
+    },
+    {
+      "name": "player_cover_radius_sm",
+      "value": "8vp"
+    },
+    {
+      "name": "player_cover_radius_md",
+      "value": "12vp"
+    },
+    {
+      "name": "player_cover_radius_lg",
+      "value": "16vp"
+    },
+    {
+      "name": "player_title_font_size_sm",
+      "value": "14fp"
+    },
+    {
+      "name": "player_title_font_size_md",
+      "value": "18fp"
+    },
+    {
+      "name": "player_title_font_size_lg",
+      "value": "20fp"
+    },
+    {
+      "name": "player_subtitle_font_size_sm",
+      "value": "12fp"
+    },
+    {
+      "name": "player_subtitle_font_size_md",
+      "value": "14fp"
+    },
+    {
+      "name": "player_subtitle_font_size_lg",
+      "value": "16fp"
+    },
+    {
+      "name": "player_slider_margin",
+      "value": "200vp"
+    },
+    {
+      "name": "player_controller_icon_size",
+      "value": "22vp"
+    },
+    {
+      "name": "player_controller_play_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "player_time_margin",
+      "value": "30vp"
+    },
+    {
+      "name": "player_bottom_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "player_bottom_tab_lg_margin",
+      "value": "56vp"
+    },
+    {
+      "name": "player_bottom_tab_margin",
+      "value": "76vp"
+    },
+    {
+      "name": "player_close_size_sm",
+      "value": "25vp"
+    },
+    {
+      "name": "player_close_size_md",
+      "value": "28vp"
+    },
+    {
+      "name": "player_close_size_lg",
+      "value": "35vp"
+    },
+    {
+      "name": "player_page_content_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "player_shadow_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "player_control_collection_size_sm",
+      "value": "18vp"
+    },
+    {
+      "name": "player_control_collection_size_md",
+      "value": "23vp"
+    },
+    {
+      "name": "player_control_collection_size_lg",
+      "value": "28vp"
+    },
+    {
+      "name": "player_page_control_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "player_slider_block",
+      "value": "1vp"
+    },
+    {
+      "name": "player_slider_margin_sm",
+      "value": "-4vp"
+    },
+    {
+      "name": "player_slider_margin_md",
+      "value": "-2vp"
+    },
+    {
+      "name": "player_slider_margin_lg",
+      "value": "-4vp"
+    },
+    {
+      "name": "player_slider_time_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "player_control_mode_size_sm",
+      "value": "20vp"
+    },
+    {
+      "name": "player_control_mode_size_md",
+      "value": "25vp"
+    },
+    {
+      "name": "player_control_mode_size_lg",
+      "value": "30vp"
+    },
+    {
+      "name": "player_control_play_size_sm",
+      "value": "55vp"
+    },
+    {
+      "name": "player_control_play_size_md",
+      "value": "60vp"
+    },
+    {
+      "name": "player_control_play_size_lg",
+      "value": "65vp"
+    },
+    {
+      "name": "self_comment_profile_size",
+      "value": "36vp"
+    },
+    {
+      "name": "self_comment_profile_radius",
+      "value": "18vp"
+    },
+    {
+      "name": "self_comment_profile_left",
+      "value": "24vp"
+    },
+    {
+      "name": "self_comment_profile_right",
+      "value": "12vp"
+    },
+    {
+      "name": "self_comment_input_font",
+      "value": "16fp"
+    },
+    {
+      "name": "self_comment_input_height",
+      "value": "40vp"
+    },
+    {
+      "name": "self_comment_input_left",
+      "value": "36vp"
+    },
+    {
+      "name": "self_comment_input_right",
+      "value": "48vp"
+    },
+    {
+      "name": "self_comment_comment_size",
+      "value": "16vp"
+    },
+    {
+      "name": "self_comment_comment_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "self_comment_comment_right",
+      "value": "8vp"
+    },
+    {
+      "name": "self_comment_emoji_size",
+      "value": "24vp"
+    },
+    {
+      "name": "self_comment_emoji_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "self_comment_stack_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "self_comment_stack_height",
+      "value": "40vp"
+    },
+    {
+      "name": "self_comment_row_height",
+      "value": "80vp"
+    },
+    {
+      "name": "self_comment_row_height_more",
+      "value": "100vp"
+    },
+    {
+      "name": "self_comment_row_padding_right",
+      "value": "24vp"
+    },
+    {
+      "name": "self_comment_row_padding_bottom",
+      "value": "20vp"
+    },
+    {
+      "name": "all_comments_title_text_font",
+      "value": "16fp"
+    },
+    {
+      "name": "all_comments_title_text_line",
+      "value": "22vp"
+    },
+    {
+      "name": "all_comments_title_row_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "all_comments_title_row_height",
+      "value": "48vp"
+    },
+    {
+      "name": "all_comments_profile_size",
+      "value": "36vp"
+    },
+    {
+      "name": "all_comments_profile_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "all_comments_title_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "all_comments_comment_left",
+      "value": "52vp"
+    },
+    {
+      "name": "all_comments_comment_font",
+      "value": "14fp"
+    },
+    {
+      "name": "all_comments_comment_text_line",
+      "value": "28vp"
+    },
+    {
+      "name": "all_comments_comment_row_top",
+      "value": "4vp"
+    },
+    {
+      "name": "all_comments_img_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "all_comments_img_row_padding",
+      "value": "52vp"
+    },
+    {
+      "name": "all_comments_img_row_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "all_comments_comment_time_font",
+      "value": "12fp"
+    },
+    {
+      "name": "all_comments_comment_time_line",
+      "value": "18vp"
+    },
+    {
+      "name": "all_comments_comment_time_margin",
+      "value": "52vp"
+    },
+    {
+      "name": "all_comments_icon_size",
+      "value": "16vp"
+    },
+    {
+      "name": "all_comments_icon_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "all_comments_icon_row_top",
+      "value": "14vp"
+    },
+    {
+      "name": "all_comments_divider_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "all_comments_divider_height",
+      "value": "1vp"
+    },
+    {
+      "name": "all_comments_comment_col_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "time_font",
+      "value": "9fp"
+    },
+    {
+      "name": "time_text_line",
+      "value": "12vp"
+    },
+    {
+      "name": "time_text_width",
+      "value": "38vp"
+    },
+    {
+      "name": "current_time_text_left",
+      "value": "24vp"
+    },
+    {
+      "name": "current_time_text_right",
+      "value": "2vp"
+    },
+    {
+      "name": "total_time_text_left",
+      "value": "2vp"
+    },
+    {
+      "name": "total_time_text_right",
+      "value": "8vp"
+    },
+    {
+      "name": "enlarge_size",
+      "value": "24vp"
+    },
+    {
+      "name": "enlarge_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "time_row_height",
+      "value": "40vp"
+    },
+    {
+      "name": "back_size",
+      "value": "24vp"
+    },
+    {
+      "name": "back_position_x",
+      "value": "24vp"
+    },
+    {
+      "name": "back_position_y",
+      "value": "36vp"
+    },
+    {
+      "name": "video_col_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "side_scroll_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "side_bar_min_width",
+      "value": "320vp"
+    },
+    {
+      "name": "related_img_height",
+      "value": "76vp"
+    },
+    {
+      "name": "related_img_width",
+      "value": "135vp"
+    },
+    {
+      "name": "related_img_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "related_img_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "related_name_font",
+      "value": "14fp"
+    },
+    {
+      "name": "related_name_line",
+      "value": "19vp"
+    },
+    {
+      "name": "related_list_top",
+      "value": "8vp"
+    },
+    {
+      "name": "related_list_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "related_row_left",
+      "value": "24vp"
+    },
+    {
+      "name": "related_row_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "related_row_height",
+      "value": "121vp"
+    },
+    {
+      "name": "sub_title_row_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "sub_title_row_height",
+      "value": "48vp"
+    },
+    {
+      "name": "introduction_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "introduction_row_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "is_playing_icon_size",
+      "value": "10vp"
+    },
+    {
+      "name": "is_playing_icon_x",
+      "value": "8vp"
+    },
+    {
+      "name": "is_playing_icon_y",
+      "value": "36vp"
+    },
+    {
+      "name": "episodes_text_font",
+      "value": "18fp"
+    },
+    {
+      "name": "episodes_text_height",
+      "value": "24vp"
+    },
+    {
+      "name": "episodes_list_height",
+      "value": "54vp"
+    },
+    {
+      "name": "episodes_list_width",
+      "value": "68vp"
+    },
+    {
+      "name": "episodes_list_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "episodes_list_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "peripheral_img_height",
+      "value": "230vp"
+    },
+    {
+      "name": "peripheral_img_width",
+      "value": "164vp"
+    },
+    {
+      "name": "peripheral_img_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "peripheral_img_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "peripheral_name_font",
+      "value": "14fp"
+    },
+    {
+      "name": "peripheral_name_line",
+      "value": "19vp"
+    },
+    {
+      "name": "peripheral_list_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "sub_title_font",
+      "value": "16fp"
+    },
+    {
+      "name": "sub_title_text_line",
+      "value": "22vp"
+    },
+    {
+      "name": "sub_title_font_more",
+      "value": "14fp"
+    },
+    {
+      "name": "sub_title_text_line_more",
+      "value": "19vp"
+    },
+    {
+      "name": "arrow_img_size",
+      "value": "24vp"
+    },
+    {
+      "name": "introduction_content_font",
+      "value": "14fp"
+    },
+    {
+      "name": "introduction_content_line",
+      "value": "28vp"
+    },
+    {
+      "name": "title_selected_font",
+      "value": "24fp"
+    },
+    {
+      "name": "title_selected_line",
+      "value": "33vp"
+    },
+    {
+      "name": "title_selected_width",
+      "value": "48vp"
+    },
+    {
+      "name": "title_selected_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "title_font",
+      "value": "18fp"
+    },
+    {
+      "name": "title_line",
+      "value": "25vp"
+    },
+    {
+      "name": "title_width",
+      "value": "58vp"
+    },
+    {
+      "name": "title_row_top",
+      "value": "25vp"
+    },
+    {
+      "name": "title_row_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "title_row_height",
+      "value": "56vp"
+    },
+    {
+      "name": "playing_size",
+      "value": "10vp"
+    },
+    {
+      "name": "playing_position_x",
+      "value": "8vp"
+    },
+    {
+      "name": "playing_position_y",
+      "value": "36vp"
+    },
+    {
+      "name": "episode_row_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "episode_row_height",
+      "value": "54vp"
+    },
+    {
+      "name": "episode_list_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "episode_list_lanes_space",
+      "value": "12vp"
+    },
+    {
+      "name": "episode_col_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "side_title_width_1",
+      "value": "65vp"
+    },
+    {
+      "name": "side_title_margin",
+      "value": "36vp"
+    },
+    {
+      "name": "side_title_width_2",
+      "value": "56vp"
+    },
+    {
+      "name": "side_row_margin_sm",
+      "value": "8vp"
+    },
+    {
+      "name": "side_row_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "side_col_width",
+      "value": "360vp"
+    },
+    {
+      "name": "lanes_item_space",
+      "value": "12vp"
+    },
+    {
+      "name": "episodes_sidebar_padding_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "episodes_sidebar_padding_left_right",
+      "value": "24vp"
+    },
+    {
+      "name": "playing_position_x_side_lg",
+      "value": "8vp"
+    },
+    {
+      "name": "playing_position_x_side",
+      "value": "6vp"
+    },
+    {
+      "name": "playing_position_y_side_lg",
+      "value": "36vp"
+    },
+    {
+      "name": "playing_position_y_side",
+      "value": "28vp"
+    },
+    {
+      "name": "episode_row_width_lg",
+      "value": "69vp"
+    },
+    {
+      "name": "episode_row_width_other",
+      "value": "55vp"
+    },
+    {
+      "name": "episode_row_height_lg",
+      "value": "54vp"
+    },
+    {
+      "name": "episode_row_height_other",
+      "value": "44vp"
+    },
+    {
+      "name": "side_text_font",
+      "value": "16fp"
+    },
+    {
+      "name": "side_text_line",
+      "value": "32vp"
+    },
+    {
+      "name": "current_time_left",
+      "value": "36vp"
+    },
+    {
+      "name": "current_time_right",
+      "value": "2vp"
+    },
+    {
+      "name": "total_time_left",
+      "value": "2vp"
+    },
+    {
+      "name": "total_time_right",
+      "value": "36vp"
+    },
+    {
+      "name": "icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_row_top",
+      "value": "14vp"
+    },
+    {
+      "name": "icon_row_bottom_sm",
+      "value": "15vp"
+    },
+    {
+      "name": "icon_row_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "button_row_top_sm",
+      "value": "4vp"
+    },
+    {
+      "name": "button_row_top",
+      "value": "16vp"
+    },
+    {
+      "name": "button_row_bottom_sm",
+      "value": "19vp"
+    },
+    {
+      "name": "button_row_bottom",
+      "value": "28vp"
+    },
+    {
+      "name": "icon_button_row_height",
+      "value": "60vp"
+    },
+    {
+      "name": "button_text_font",
+      "value": "12fp"
+    },
+    {
+      "name": "button_text_margin",
+      "value": "24vp"
+    }
+  ]
+}

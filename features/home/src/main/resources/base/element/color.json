@@ -1,0 +1,42 @@
+{
+  "color": [
+    {
+      "name": "tab_font_color_normal",
+      "value": "#40EFEEE0"
+    },
+    {
+      "name": "tab_font_color_selected",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_background",
+      "value": "#1D2123"
+    },
+    {
+      "name": "search_hint",
+      "value": "#40FFFFFF"
+    },
+    {
+      "name": "search_background",
+      "value": "#20282A"
+    },
+    {
+      "name": "swiper_indicator",
+      "value": "#40FFFFFF"
+    },
+    {
+      "name": "menu_title",
+      "value": "#EFEEE0"
+    },
+    {
+      "name": "top_charts_desc",
+      "value": "#80FFFFFF"
+    },{
+      "name": "home_mv_sub_title",
+      "value": "#999999"
+    },{
+      "name": "home_mv_play_btn_bg",
+      "value": "#1AFFFFFF"
+    }
+  ]
+}

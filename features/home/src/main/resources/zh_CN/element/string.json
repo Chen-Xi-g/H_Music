@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_collections",
+      "value": "收藏"
+    },
+    {
+      "name": "header_search",
+      "value": "搜索..."
+    },
+    {
+      "name": "banner_winter_description",
+      "value": "温暖心灵的冬季旋律，在寒冬中带来温馨与安慰。"
+    },
+    {
+      "name": "banner_winter_title",
+      "value": "冬之韵律"
+    },
+    {
+      "name": "banner_nature_description",
+      "value": "感受大自然的呼吸，聆听万物的低语。"
+    },
+    {
+      "name": "banner_nature_title",
+      "value": "自然之音"
+    },
+    {
+      "name": "banner_sleep_description",
+      "value": "柔和的旋律，伴您进入深沉的梦乡。"
+    },
+    {
+      "name": "banner_sleep_title",
+      "value": "夜之安眠"
+    },
+    {
+      "name": "banner_electronic_description",
+      "value": "欢快动感的电子音乐，点燃您的每一刻。"
+    },
+    {
+      "name": "banner_electronic_title",
+      "value": "节奏狂想"
+    },
+    {
+      "name": "banner_serenity_description",
+      "value": "温柔舒缓的旋律，带您进入放松的心灵空间。"
+    },
+    {
+      "name": "banner_serenity_title",
+      "value": "静谧之声"
+    },
+    {
+      "name": "top_charts_title",
+      "value": "排行榜"
+    },
+    {
+      "name": "new_mv_title",
+      "value": "最新MV"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "mine_collection",
+      "value": "我的收藏"
+    }
+  ]
+}

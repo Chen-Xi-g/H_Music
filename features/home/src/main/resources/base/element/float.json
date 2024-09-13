@@ -1,0 +1,226 @@
+{
+  "float": [
+    {
+      "name": "icon_tab_width",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_tab_height",
+      "value": "24vp"
+    },
+    {
+      "name": "tab_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tab_top_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "bottom_navigation",
+      "value": "24vp"
+    },
+    {
+      "name": "tab_height_lg",
+      "value": "100vp"
+    },
+    {
+      "name": "bottom_tab_bar_width_lg",
+      "value": "96vp"
+    },
+    {
+      "name": "tab_size_lg",
+      "value": "56vp"
+    },
+    {
+      "name": "tab_size",
+      "value": "76vp"
+    },
+    {
+      "name": "header_logo",
+      "value": "34vp"
+    },
+    {
+      "name": "header_logo_margin",
+      "value": "30vp"
+    },
+    {
+      "name": "header_search_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "header_search_size",
+      "value": "16vp"
+    },
+    {
+      "name": "status_bar_padding",
+      "value": "50vp"
+    },
+    {
+      "name": "search_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "search_border_radius",
+      "value": "40vp"
+    },
+    {
+      "name": "search_input_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "banner_height_sm",
+      "value": "368vp"
+    },
+    {
+      "name": "banner_height_md",
+      "value": "170vp"
+    },
+    {
+      "name": "banner_height_lg",
+      "value": "218vp"
+    },
+    {
+      "name": "swiper_item_size",
+      "value": "6vp"
+    },
+    {
+      "name": "swiper_prev_next_margin_lg",
+      "value": "64vp"
+    },
+    {
+      "name": "swiper_prev_next_margin_md",
+      "value": "12vp"
+    },
+    {
+      "name": "swiper_prev_next_margin_sm",
+      "value": "0vp"
+    },
+    {
+      "name": "swiper_selected_item_width",
+      "value": "12vp"
+    },
+    {
+      "name": "banner_img_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "banner_padding_sm",
+      "value": "16vp"
+    },
+    {
+      "name": "banner_title_font_size_sm",
+      "value": "20fp"
+    },
+    {
+      "name": "banner_description_font_size_sm",
+      "value": "14fp"
+    },
+    {
+      "name": "banner_title_font_size_md",
+      "value": "14fp"
+    },
+    {
+      "name": "banner_description_font_size_md",
+      "value": "11fp"
+    },
+    {
+      "name": "banner_title_font_size_lg",
+      "value": "24fp"
+    },
+    {
+      "name": "banner_description_font_size_lg",
+      "value": "17fp"
+    },
+    {
+      "name": "home_menu_title_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "home_content_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "home_grid_space",
+      "value": "14vp"
+    },
+    {
+      "name": "home_top_charts_item_padding",
+      "value": "17vp"
+    },
+    {
+      "name": "home_top_charts_img_size",
+      "value": "63vp"
+    },
+    {
+      "name": "home_top_charts_img_radius",
+      "value": "10vp"
+    },
+    {
+      "name": "home_mv_main_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "home_top_charts_title_font_size",
+      "value": "17fp"
+    },
+    {
+      "name": "home_top_charts_desc_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "home_top_charts_item_height",
+      "value": "96vp"
+    },
+    {
+      "name": "home_top_charts_collection_size",
+      "value": "37vp"
+    },{
+      "name": "home_mv_main_sub_img_width_sm",
+      "value": "90vp"
+    },{
+      "name": "home_mv_main_sub_img_width_md",
+      "value": "110vp"
+    },
+    {
+      "name": "home_mv_main_sub_img_width_lg",
+      "value": "130vp"
+    },{
+      "name": "home_mv_main_sub_img_radio",
+      "value": "8vp"
+    },{
+      "name": "home_mv_title_font_size",
+      "value": "16fp"
+    },{
+      "name": "home_mv_sub_title_font_size",
+      "value": "12fp"
+    },{
+      "name": "home_mv_play_btn_height",
+      "value": "30vp"
+    },{
+      "name": "home_mv_grid_gap",
+      "value": "12vp"
+    },{
+      "name": "home_mv_grid_desc_font_size_sm",
+      "value": "10fp"
+    },{
+      "name": "home_mv_grid_desc_font_size_md",
+      "value": "12fp"
+    },{
+      "name": "home_mv_grid_desc_font_size_lg",
+      "value": "14fp"
+    },
+    {
+      "name": "tab_control_height_sm",
+      "value": "65vp"
+    },
+    {
+      "name": "tab_control_height_md",
+      "value": "85vp"
+    },
+    {
+      "name": "tab_control_height_lg",
+      "value": "145vp"
+    }
+  ]
+}

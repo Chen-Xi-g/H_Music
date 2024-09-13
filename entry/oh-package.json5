@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/commons": "file:../commons/base",
+    "@ohos/home": "file:../features/home",
+    "@ohos/player": "file:../features/player",
+  }
+}
+

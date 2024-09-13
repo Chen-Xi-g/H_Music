@@ -1,0 +1,55 @@
+{
+  "color": [
+    {
+      "name": "player_background",
+      "value": "#4D1D2123"
+    },
+    {
+      "name": "player_slider_selected",
+      "value": "#FACD66"
+    },
+    {
+      "name": "player_subtitle",
+      "value": "#80FFFFFF"
+    },
+    {
+      "name": "player_slider_track",
+      "value": "#40FFFFFF"
+    },
+    {
+      "name": "player_shadow_color",
+      "value": "#4D000000"
+    },
+    {
+      "name": "player_slider_block",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "player_select_swiper",
+      "value": "#DBFFFFFF"
+    },
+    {
+      "name": "episodes_font",
+      "value": "#FACD66"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#26FFFF1E"
+    },
+    {
+      "name": "episodes_background",
+      "value": "#20282A"
+    },
+    {
+      "name": "content_background",
+      "value": "#1D2123"
+    },
+    {
+      "name": "placeholder_color",
+      "value": "#80FFFFFF"
+    },    {
+      "name": "episode_row_background",
+      "value": "#33FFFFFF"
+    }
+  ]
+}

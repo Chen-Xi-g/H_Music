@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_collections",
+      "value": "Collections"
+    },
+    {
+      "name": "header_search",
+      "value": "Search..."
+    },
+    {
+      "name": "banner_serenity_title",
+      "value": "Serenity Sound"
+    },
+    {
+      "name": "banner_serenity_description",
+      "value": "Gentle and soothing melodies to guide you into a relaxed state of mind."
+    },
+    {
+      "name": "banner_electronic_title",
+      "value": "Rhythm Rhapsody"
+    },
+    {
+      "name": "banner_electronic_description",
+      "value": "Upbeat and energetic electronic music to ignite every moment."
+    },
+    {
+      "name": "banner_sleep_title",
+      "value": "Night's Rest"
+    },
+    {
+      "name": "banner_sleep_description",
+      "value": "Soft melodies to accompany you into a deep sleep."
+    },
+    {
+      "name": "banner_nature_title",
+      "value": "Nature's Melody"
+    },
+    {
+      "name": "banner_nature_description",
+      "value": "Feel the breath of nature and listen to the whispers of the world."
+    },
+    {
+      "name": "banner_winter_title",
+      "value": "Winter Rhythm"
+    },
+    {
+      "name": "banner_winter_description",
+      "value": "Warm winter melodies that bring comfort and solace during the cold season."
+    },
+    {
+      "name": "top_charts_title",
+      "value": "Top charts"
+    },
+    {
+      "name": "new_mv_title",
+      "value": "New MV"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "mine_collection",
+      "value": "My Collection"
+    }
+  ]
+}
